@@ -62,7 +62,7 @@ for(let generation = 1; ; generation++){
       meanFitness: meanFitness.toFixed(2)
     });
   }
-  if(best.fitness == 0){
+  if(best.fitness == 0 || generation >= config.maxGenerations){
     break;
   }
 }
