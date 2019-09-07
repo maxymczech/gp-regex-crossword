@@ -3,10 +3,14 @@ Evolutionary solver for regexcrossword: https://regexcrossword.com/
 
 ## Installation
 
-```git clone ...
+```
+git clone ...
 cd gp-regex-crossword
-npm install```
+npm install
+```
 
 ## Usage
 
-```node run src/main.js```
+```
+node run src/main.js
+```
