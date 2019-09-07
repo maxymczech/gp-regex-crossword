@@ -12,5 +12,5 @@ npm install
 ## Usage
 
 ```
-node run src/main.js
+node src/main.js
 ```

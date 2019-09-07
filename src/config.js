@@ -1,7 +1,7 @@
 module.exports = {
   copyTopN: 50,
-  crossoverRate: 0.4,
+  crossoverRate: 0.5,
   freshBlood: 0.1,
-  mutatinRate: 0.4,
-  populationSize: 700,
+  mutatinRate: 0.3,
+  populationSize: 500,
 };
