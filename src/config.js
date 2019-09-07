@@ -7,14 +7,14 @@ module.exports = {
   crossoverRate: 0.5,
 
   //Probability of spawning a new chromosome into the population
-  freshBlood: 0.1,
+  freshBlood: 0.05,
 
   //Maximum number of generations for the algorithm to run
   maxGenerations: 50000,
 
   //Probability of applying mutation genetic operator
-  mutatinRate: 0.3,
+  mutatinRate: 0.4,
 
   //Population size
-  populationSize: 500,
+  populationSize: 1000,
 };
